@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/anshu_kr_96" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/anshu_kr_96?logo=twitter&style=for-the-badge" alt="https://twitter.com/anshu_kr_96" /></a> </p>
 
-- 🔭 I’m currently working on **Employee Leave Management Syste.m**
+- 🔭 I’m currently working on **Employee Leave Management System.**
 
 - 🌱 I’m currently learning **PHP, MySql, Laravel, Bootstrap 5.**
 
