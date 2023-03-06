@@ -1,4 +1,9 @@
+
+<h1 align="center">Hi 👋, I'm Anshu Kumar.</h1>
+<h3 align="center">A passionate full stack web developer from India.</h3>
+
 # 💫 About Me:
+
 🔭 I’m currently working on Employee Leave Management System Project.<br>🌱 I’m currently learning PHP, MySql , Laravel, Bootstrap 5.<br>
 
 
