@@ -4,12 +4,13 @@
 
 [![](https://visitcount.itsvg.in/api?id=ankita-ac-dv&icon=0&color=4)](https://visitcount.itsvg.in)
 
-## 💫 About Me:
->* My Resume
+## About Me:
+>* [My Resume](google.com)
 
 
-## 🌐 Socials:
->* Instagram
+## Socials:
+>* [X(Twitter)](https://x.com/Anshu_kr_96) 
+>* [Instagram](https://www.instagram.com/anshu_._kr/)
 
-## 💻 Tech Stack:
+## Tech Stack:
 
