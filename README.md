@@ -1,12 +1,12 @@
 
-<h1 align="center">Hi 👋, I'm Anshu Kumar.</h1>
-<h3 align="center">A passionate Flutter Android/iOS Developer from Muzaffarpur, Bihar.</h3>
+<h1 align="center">Hi 👋, I'm Anshu</h1>
+<h3 align="center">A passionate Flutter Android Developer from Muzaffarpur, Bihar.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=ankita-ac-dv&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ## About Me:
 >* [My Resume](https://drive.google.com/file/d/1iISPy-5wPyZuwW7fg6Lnimn6w9wwTsG2/view?usp=sharing)
->* Develop high-quality, responsive mobile applications using Flutter for both Android and iOS platforms.
+>* Develop high-quality, responsive mobile applications using Flutter for Android platforms.
 >* Collaborate with UI/UX designers and backend developers to create seamless, user-friendly apps.
 >* Maintain and improve existing codebases and peer-review code changes.
 >* Integrate RESTful APIs and third-party libraries effectively.
@@ -25,7 +25,7 @@
 >* HTMl,CSS,JavaScript
 >* React.js, Node.js
 >* Tailwind CSS, Bootreap
->* Flutter, Android/iOS Development
+>* Flutter, Android Development
 
 ## Get In Touch
 >* Email : anshu.ac.dv@gmail.com
