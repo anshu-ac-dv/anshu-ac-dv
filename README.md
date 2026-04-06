@@ -1,69 +1,66 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=ANSHU%20%2F%2F%20DEV&fontSize=80&animation=fadeIn&fontAlignY=40" width="100%" />
+  <h1>🚀 Hello World, I'm Anshu! <img src="https://media.giphy.com/media/hvRJCLz68khBXs8EVj/giphy.gif" width="35"></h1>
+</div>
+<div align="center">
+  <br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+📱;Android+Specialist+🤖;Python+%2B+DSA+Enthusiast+🐍;Open+to+Entry-Level+Opportunities+🚀" alt="Typing SVG" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=MOBILE+ARCHITECT;FLUTTER+SPECIALIST;PYTHON+ALGORITHMS;TCS+NQT+2026+ASPIRANT" alt="Typing SVG" />
+  <p align="center">
+    <b>B.Tech Graduate | Mobile Application Specialist</b><br>
+    I build scalable, high-performance apps with <b>Flutter</b> and <b>Android SDK</b>.<br>
+    Focused on delivering clean UI and robust business logic like my <b>Auraa Mart</b> project.
+  </p>
+
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,python,firebase,git,github,java,mysql,vscode,postman,linux&theme=dark" />
+
 </div>
 
 ---
 
-### 🌌 The Developer Persona
-> **B.Tech Graduate** specialized in high-performance cross-platform applications. I bridge the gap between complex logic and beautiful user experiences.
+### 👨‍💻 About Me
+I am a passionate **B.Tech Graduate** and a dedicated **Mobile Application Developer**. My mission is to build seamless, high-performance user experiences that live at the intersection of design and functionality.
 
-- 🛠️ **Primary Gear:** ASUS TUF Gaming A15
-- 🏗️ **Core Framework:** Flutter & Dart
-- 🧪 **Research:** Data Structures & Algorithms with Python
-- 🎯 **Current Sprint:** Finalizing the **100-Day UI Challenge** portfolio.
-
----
-
-### 🔮 Tech Stack Orbit
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,firebase,java,mysql,git,github,vscode,androidstudio,postman,linux&theme=dark" />
-</div>
+- 🔭 **Current Focus:** Open for **Entry-Level Flutter & Android Developer** positions.
+- 🛠️ **Featured Project:** **[Auraa Mart](https://github.com/anshu-ac-dv)** — A full-scale E-commerce solution built with Flutter.
+- ⚡ **Milestone:** Successfully completed the **100-Day Flutter UI Challenge**.
+- 🧠 **Learning:** Mastering **Data Structures & Algorithms** in Python for optimized coding.
+- 💻 **Daily Driver:** ASUS TUF Gaming A15.
 
 ---
 
-### 📂 Mission Log (Projects)
+### 🛠️ Technical Ecosystem
 
-| Project | Tech Stack | Status |
-| :--- | :--- | :--- |
-| **[Weather App](https://github.com/anshu-ac-dv)** | `Flutter` `OpenWeather API` | ✅ Deployed |
-| **100 Days of Flutter UI** | `Dart` `Custom Painter` | 🔄 90% Complete |
-| **DSA Python Lab** | `Python` `Algorithms` | 📈 Ongoing |
-| **TCS NQT Preparation** | `Aptitude` `Coding` | 🚀 Target: 2026 |
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Mobile** | **Flutter**, **Dart**, **Android SDK**, Java |
+| **Backend** | **Firebase** (Auth, Firestore, Cloud Messaging), MySQL |
+| **State Management** | **Provider**, GetX |
+| **Languages** | **Python**, C++, SQL |
+| **Tools** | Git, GitHub, VS Code, Android Studio, Postman |
 
 ---
 
-### 📊 System Metrics
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anshu-ac-dv&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&icon_color=00F2FF&text_color=c9d1d9" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-ac-dv&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=c9d1d9&hide=html,css" />
-</p>
+### 📱 Auraa Mart Highlights
+> **Auraa Mart** isn't just an app; it's a showcase of my ability to handle complex state and beautiful UI.
+- **Dynamic UX:** Implemented smooth page transitions and custom glassmorphism widgets.
+- **State Logic:** Robust management using Provider to ensure a lag-free shopping cart experience.
+- **Android Optimized:** Fully tested and optimized for performance across different Android API levels.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshu-ac-dv&theme=tokyonight&background=0D1117&fire=00F2FF&ring=00F2FF" width="100%" />
-</div>
+  <h3>🤝 Let's Build Something Great</h3>
+  <p>Seeking <b>Entry-Level Flutter/Android</b> roles to bring value to innovative teams.</p>
 
----
+  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/anshu-ac-dv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-### 🕹️ Git Activity Grid
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anshu-ac-dv/anshu-ac-dv/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-</div>
-
----
-
-### 📡 Establish Connection
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-00F2FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-00F2FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
-  <a href="https://github.com/anshu-ac-dv"><img src="https://img.shields.io/badge/GitHub-00F2FF?style=for-the-badge&logo=github&logoColor=black" /></a>
-</p>
-
-<br />
-
-<div align="center">
+  <br/>
+  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
