@@ -25,7 +25,7 @@
 I am a passionate **B.Tech Graduate** and a dedicated **Mobile Application Developer**. My mission is to build seamless, high-performance user experiences that live at the intersection of design and functionality.
 
 - 🔭 **Current Focus:** Open for **Entry-Level Flutter & Android Developer** positions.
-- 🛠️ **Featured Project:** **[Auraa Mart](https://github.com/anshu-ac-dv)** — A full-scale E-commerce solution built with Flutter.
+- 🛠️ **Featured Project:** **[Auraa Mart](https://github.com/anshu-ac-dv/aura_mart)** — A full-scale E-commerce solution built with Flutter.
 - ⚡ **Milestone:** Successfully completed the **100-Day Flutter UI Challenge**.
 - 🧠 **Learning:** Mastering **Data Structures & Algorithms** in Python for optimized coding.
 - 💻 **Daily Driver:** ASUS TUF Gaming A15.
@@ -56,8 +56,8 @@ I am a passionate **B.Tech Graduate** and a dedicated **Mobile Application Devel
   <h3>🤝 Let's Build Something Great</h3>
   <p>Seeking <b>Entry-Level Flutter/Android</b> roles to bring value to innovative teams.</p>
 
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:anshu.ac.dv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/anshu-kr-sarraf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/anshu-ac-dv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
   <br/>
