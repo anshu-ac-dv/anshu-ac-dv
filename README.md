@@ -1,66 +1,49 @@
+# Hi, I'm Anshu Sarraf 👋
+### Flutter Developer | Cross-Platform Enthusiast | B.Tech Graduate
 
-<div align="center">
-  <h1>🚀 Hello World, I'm Anshu! <img src="https://media.giphy.com/media/hvRJCLz68khBXs8EVj/giphy.gif" width="35"></h1>
-</div>
-<div align="center">
-  <br/>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Flutter+Developer+📱;Android+Specialist+🤖;Python+%2B+DSA+Enthusiast+🐍;Open+to+Entry-Level+Opportunities+🚀" alt="Typing SVG" />
-
-  <br/>
-
-  <p align="center">
-    <b>B.Tech Graduate | Mobile Application Specialist</b><br>
-    I build scalable, high-performance apps with <b>Flutter</b> and <b>Android SDK</b>.<br>
-    Focused on delivering clean UI and robust business logic like my <b>Auraa Mart</b> project.
-  </p>
-
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,python,firebase,git,github,java,mysql,vscode,postman,linux&theme=dark" />
-
-</div>
+I am a passionate Software Developer focused on building high-performance, beautiful, and responsive mobile applications. I thrive on turning complex problems into elegant code.
 
 ---
 
-### 👨‍💻 About Me
-I am a passionate **B.Tech Graduate** and a dedicated **Mobile Application Developer**. My mission is to build seamless, high-performance user experiences that live at the intersection of design and functionality.
+## 🚀 Featured Project: Aura Mart
+**Aura Mart** is a full-featured e-commerce application built with Flutter. It demonstrates my ability to handle complex UI, state management, and seamless user experiences.
 
-- 🔭 **Current Focus:** Open for **Entry-Level Flutter & Android Developer** positions.
-- 🛠️ **Featured Project:** **[Auraa Mart](https://github.com/anshu-ac-dv/aura_mart)** — A full-scale E-commerce solution built with Flutter.
-- ⚡ **Milestone:** Successfully completed the **100-Day Flutter UI Challenge**.
-- 🧠 **Learning:** Mastering **Data Structures & Algorithms** in Python for optimized coding.
-- 💻 **Daily Driver:** ASUS TUF Gaming A15.
+*   **Key Features:** Product catalogs, secure checkout flow, and responsive design.
+*   **Tech Stack:** Flutter, Dart, [Insert State Management, e.g., Provider/Riverpod].
+*   **[Link to Repository](https://github.com/anshu-ac-dv/aura-mart)**
 
 ---
 
-### 🛠️ Technical Ecosystem
+## 🛠️ Technical Toolkit
 
-| **Category** | **Technologies** |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Mobile** | **Flutter**, **Dart**, **Android SDK**, Java |
-| **Backend** | **Firebase** (Auth, Firestore, Cloud Messaging), MySQL |
-| **State Management** | **Provider**, GetX |
-| **Languages** | **Python**, C++, SQL |
-| **Tools** | Git, GitHub, VS Code, Android Studio, Postman |
+| **Mobile Dev** | Flutter, Dart |
+| **Languages** | Python (DSA), JavaScript |
+| **Tools** | Git, GitHub, VS Code, Android Studio |
+| **Currently Learning** | Advanced State Management & Backend Integration |
 
 ---
 
-### 📱 Auraa Mart Highlights
-> **Auraa Mart** isn't just an app; it's a showcase of my ability to handle complex state and beautiful UI.
-- **Dynamic UX:** Implemented smooth page transitions and custom glassmorphism widgets.
-- **State Logic:** Robust management using Provider to ensure a lag-free shopping cart experience.
-- **Android Optimized:** Fully tested and optimized for performance across different Android API levels.
+## 📅 100 Days of Flutter UI Challenge
+I am currently pushing my design boundaries by participating in a **100-day UI challenge**. This project showcases my consistency and growth in creating pixel-perfect interfaces.
+
+*   Check out my progress here: **[UI Challenge Repository](https://github.com/anshu-ac-dv/100-days-of-flutter)**
 
 ---
 
-<div align="center">
-  <h3>🤝 Let's Build Something Great</h3>
-  <p>Seeking <b>Entry-Level Flutter/Android</b> roles to bring value to innovative teams.</p>
+## 🧠 Problem Solving
+I actively practice **Data Structures and Algorithms (DSA)** using **Python** to ensure my code is not just functional, but efficient and scalable.
 
-  <a href="mailto:anshu.ac.dv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/anshu-kr-sarraf/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/anshu-ac-dv"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+---
 
-  <br/>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+## 📫 Let's Connect!
+*   **LinkedIn:** [Your LinkedIn Profile Link]
+*   **Portfolio:** [Your Portfolio Link]
+*   **Location:** Bengaluru, India (Open to opportunities)
+
+---
+
+### 📈 GitHub Stats
+![Anshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshu-ac-dv&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-ac-dv&layout=compact&theme=radical)
