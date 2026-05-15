@@ -1,45 +1,53 @@
-# Hi there, I'm Anshu! 👋
+# Hi there, I'm Anshu Kumar 👋
 
-I am a passionate **Software Development Graduate** specializing in building high-performance, beautiful, and responsive mobile applications. I love turning complex problems into elegant, user-centric code.
-
----
-
-### 🚀 About Me
-- 📱 Focused on **Mobile Application Development** using the **Flutter** framework and **Dart**.
-- 🧠 Actively sharpening my **Data Structures & Algorithms (DSA)** skills using **Python**.
-- 🛠️ Currently showcasing my dedication through a **100-Day Flutter UI Design Challenge**.
-- 📍 Based in India, open to entry-level software engineering and Flutter developer roles.
+🚀 **Flutter Developer | Mobile Application Engineer**  
+I build high-performance, pixel-perfect, and scalable mobile applications. With a strong foundation in software engineering principles, clean architecture, and modern state management, I focus on turning complex product requirements into elegant, maintainable code.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Toolkit
 
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend/Mobile** | Flutter, Dart |
-| **Languages** | Python, Dart |
-| **Tools & Platforms** | Git, GitHub, VS Code, Android Studio |
-
----
-
-### 📁 Featured Projects
-
-#### 🛒 [Aura Mart](https://github.com/your-username/aura-mart)
-An feature-rich e-commerce mobile application built from the ground up using Flutter. 
-- Implemented state management and smooth UI/UX transitions.
-- Optimized for seamless performance and modern design standards.
+*   **Framework & Languages:** Flutter | Dart | Python (DSA)
+*   **State Management:** BLoC / Riverpod 
+*   **Architecture & Best Practices:** Clean Architecture, MVVM, SOLID Principles, Feature-First Structure
+*   **Tools & Databases:** Git/GitHub, REST APIs, Firebase, Hive/SQLite, CI/CD Baselines
 
 ---
 
-### 📈 My GitHub Stats
+### 📱 Project Spotlight: Aura Mart
 
-![Anshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshu-ac-dv&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-ac-dv&layout=compact&theme=radical)
+A production-ready e-commerce mobile application engineered from scratch using the Flutter ecosystem. This project serves as a showcase of production-grade architecture and premium UI/UX execution.
+
+#### ⚡ Technical Architecture & Engineering Decisions
+*   **State Management & Reactive UI:** Utilized **[BLoC]** to decouple business logic from the presentation layer, ensuring predictable state mutations and a highly responsive user experience.
+*   **Clean Architecture (Data, Domain, Presentation):** Enforced strict separation of concerns. The domain layer contains pure business logic and use cases, making the codebase highly testable and independent of external data sources or APIs.
+*   **Network & Data Hydration:** Implemented a robust repository pattern using **Dio** for optimized REST API consumption, featuring interceptors for JWT token handling, global error catching, and local caching via **Hive** for offline-first capability.
+*   **UI/UX Engineering:** Engineered fluid micro-interactions, custom animations, and a reusable widget ecosystem conforming strictly to Material 3 design systems.
 
 ---
 
-### 🤝 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile) 
-- [Portfolio/Email](mailto:your-email@example.com)
+### 🎨 What I'm Up To
+*   **Continuous Growth:** Currently completing a **100-Day Flutter UI Design Challenge** to master complex layouts, custom painters, and high-fidelity animations.
+*   **Problem Solving:** Sharpening core computer science fundamentals and **Data Structures & Algorithms (DSA)** daily using Python.
+*   **Goal:** Actively seeking an entry-level Flutter Developer position to solve impactful problems at scale.
 
-"Every day is an opportunity to write better code than yesterday." 💻
+---
+
+### 📈 GitHub Ecosystem
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshu-ac-dv&show_icons=true&theme=visual_studio_dark&count_private=true" alt="Anshu's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshu-ac-dv&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+Let's discuss how I can bring value to your engineering team.
+
+📥 **[Download My Resume](YOUR_RESUME_LINK_HERE)**  
+💼 **[Connect on LinkedIn](YOUR_LINKEDIN_URL_HERE)**  
+📧 **[Drop Me an Email](mailto:YOUR_EMAIL_HERE)**  
+
+"Writing clean, testable code today saves a thousand lines of debugging tomorrow." 💻
