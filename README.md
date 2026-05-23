@@ -1,79 +1,167 @@
-# Hi there, I'm Anshu Kumar! 👋 ✨
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:7B61FF&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
-### 🚀 About Me
-I am a **Mobile Application Developer** dedicated to building beautiful, butter-smooth, and high-performance apps. I focus on writing **clean, scalable code** that looks great on the outside and is built flawlessly on the inside. 
 
-🌟 **My Goal:** To bring value, clean architecture, and passion to an innovative development team as a Flutter Engineer!
+# Anshu Kumar
+### Flutter Developer · Android Developer · Clean Architecture Advocate
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Building+butter-smooth+Flutter+apps+%F0%9F%9A%80;BLoC+%7C+Clean+Architecture+%7C+Material+3;Turning+coffee+into+cross-platform+code+%E2%98%95)](https://git.io/typing-svg)
+
+<br/>
+
+[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+[![Android](https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
+[![Python](https://img.shields.io/badge/Python-DSA_Grind-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anshu-kr-sarraf/)
+[![Twitter](https://img.shields.io/badge/Twitter-@Anshu_kr_96-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Anshu_kr_96)
+[![Gmail](https://img.shields.io/badge/Email-anshu.ac.dv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anshu.ac.dv@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-79+_Repos-181717?style=flat-square&logo=github)](https://github.com/anshu-ac-dv)
+
+📍 Bangalore, India
+
+</div>
 
 ---
 
-### 🛠️ My Technical Toolkit
+## 🙋‍♂️ About Me
+
+I'm a **Mobile Application Developer** passionate about building beautiful, butter-smooth, and high-performance apps. I write **clean, scalable code** that looks great on the outside — and is built flawlessly on the inside.
+
+- 🔭 Currently building **Aura Mart** — a production-grade e-commerce Flutter app
+- 🏆 Actively completing a **100-Day Flutter UI Challenge** (daily UI + animations)
+- 🧮 **DSA grinding** in Python to keep algorithms sharp
+- 🎯 Goal: Join an innovative team as a **Senior Flutter Engineer**
+- 🌍 Based in **Bangalore** · Available for opportunities
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Material3](https://img.shields.io/badge/Material_3_Design-757575?style=flat-square&logo=material-design&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### 🧠 State Management & Architecture
+![BLoC](https://img.shields.io/badge/BLoC-7B61FF?style=flat-square)
+![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B35?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-9C27B0?style=flat-square)
+
+### 💾 Data & Networking
+![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF9800?style=flat-square)
+
+### ⚙️ Tools & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF5252?style=flat-square)
+
+</div>
+
+---
+
+## 🏗️ Architecture Philosophy
+
+I build every Flutter app using **Clean Architecture** — the standard for production-grade, maintainable codebases:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    PRESENTATION LAYER                        │
+│             Widgets  ←→  BLoC (Events / States)             │
+├─────────────────────────────────────────────────────────────┤
+│                       DOMAIN LAYER                           │
+│           Use Cases  ←→  Repository Interfaces              │
+├─────────────────────────────────────────────────────────────┤
+│                        DATA LAYER                            │
+│      Repository Impl  ←→  Remote / Local Data Sources       │
+└─────────────────────────────────────────────────────────────┘
+```
+
+**Why this matters:**
+- ✅ Every BLoC is independently **unit-testable**
+- ✅ Business logic is **framework-agnostic**
+- ✅ Features can be added **without touching existing code**
+- ✅ **Predictable, unidirectional** data flow
+
+---
+
+## 🌟 Project Spotlight — Aura Mart 🛒
+
+> A **production-grade e-commerce Flutter application** — not just a demo app, but engineered like a real-world software product.
+
+| Layer | What I Built |
+|---|---|
+| 🧱 **Architecture** | Strict Data → Domain → Presentation separation; bug fixes take minutes, not hours |
+| 🚦 **State Management** | BLoC for complex async flows; Cubit for lightweight UI state |
+| 🌐 **Networking** | Dio with interceptors, JWT auth, graceful error handling |
+| 📦 **Offline-First** | Hive local caching — app stays fast with zero connectivity |
+| 🎨 **UI/UX** | Custom animations, smooth transitions, Material 3 reusable widget library |
+
+[![View Repo](https://img.shields.io/badge/View_Aura_Mart_Repo-181717?style=for-the-badge&logo=github)](https://github.com/anshu-ac-dv)
+
+---
+
+## 🔥 What I'm Building Right Now
 
 <table>
-  <tr>
-    <td align="center"><b>Category</b></td>
-    <td align="center"><b>Technologies & Tools</b></td>
-  </tr>
-  <tr>
-    <td>📱 <b>Frontend & Mobile</b></td>
-    <td><code>Flutter</code> ⭐ <code>Dart</code> ⭐ <code>Material 3 Design</code></td>
-  </tr>
-  <tr>
-    <td>🧠 <b>State Management</b></td>
-    <td><code>BLoC</code> / <code>Riverpod</code> /<i></i></td>
-  </tr>
-  <tr>
-    <td>🏗️ <b>Architecture</b></td>
-    <td><code>Clean Architecture</code> 🔹 <code>MVVM</code> 🔹 <code>SOLID Principles</code></td>
-  </tr>
-  <tr>
-    <td>💾 <b>Data & Network</b></td>
-    <td><code>REST APIs (Http)</code> 🔹 <code>Firebase</code> 🔹 <code>SQLite</code></td>
-  </tr>
-  <tr>
-    <td>⚙️ <b>Core Fundamentals</b></td>
-    <td><code>Data Structures & Algorithms (DSA) using Python</code> 🔹 <code>Git & GitHub</code></td>
-  </tr>
+<tr>
+<td width="50%">
+
+### 🏆 100-Day Flutter UI Challenge
+Daily complex UI layouts, custom animations, and micro-interactions — mastering every visual capability Flutter has to offer. Each day pushes the boundary of what mobile UI can look like.
+
+</td>
+<td width="50%">
+
+### 🧮 DSA Grind in Python
+Solving algorithmic puzzles daily to keep logical thinking sharp and write optimally efficient code. Because great Flutter engineers don't just know widgets — they know *how to think*.
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 📱 Project Spotlight: Aura Mart 🛒
 
-**Aura Mart** is a production-grade e-commerce application built entirely with Flutter. Instead of just making a basic app, I treated this like a real-world software product.
 
-#### ⚡ How I Built It (The Easy Breakdown):
-*   🧱 **Clean Layered Architecture:** I split the app into 3 strict layers (**Data**, **Domain**, and **Presentation**). This keeps the code organized so that updating a feature or fixing a bug takes minutes, not hours.
-*   🚦 **Smart State Management:** Used robust state management to separate business logic from the UI. This ensures the app handles complex user actions (like adding items to a cart) instantly without freezing.
-*   🌐 **Advanced API & Networking:** Utilized **Dio** with interceptors to talk to the backend, handle user authentication (JWT tokens), and catch network errors gracefully.
-*   📦 **Offline-First Ready:** Implemented local caching using **Hive**, meaning the app stays lightning-fast and retains critical user data even when the user goes offline.
-*   🎨 **Premium UI/UX:** Crafted with customized animations, smooth page transitions, and a reusable widget library following Material 3 guidelines.
 
----
 
-### 🔥 What I am Coding Right Now
+## 🤝 Let's Build Something Together
 
-*   🏆 **100-Day Flutter UI Challenge:** Daily building complex UI layouts, custom animations, and micro-interactions to master the visual capabilities of Flutter.
-*   🧮 **DSA Grind:** Solving algorithmic puzzles using **Python** to keep my logical thinking sharp and code optimization top-notch.
+I'm actively looking for **Flutter Developer** roles where I can bring clean architecture, pixel-perfect UI, and performance-obsessed engineering to an amazing product team.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/anshu-kr-sarraf/)
+[![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:anshu.ac.dv@gmail.com)
+[![Twitter](https://img.shields.io/badge/🐦_Follow_on_X-1DA1F2?style=for-the-badge)](https://twitter.com/Anshu_kr_96)
+
+</div>
 
 ---
 
+<div align="center">
 
-### 🤝 Let's Team Up!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,100:02569B&height=80&section=footer" width="100%"/>
 
-I'm ready to hit the ground running and build amazing products with you. Let's connect!
+*Built with 💙 in Flutter · Engineered with ♻️ Clean Architecture · Powered by ☕ Coffee*
 
-*   📄 **[View My Resume](YOUR_RESUME_LINK_HERE)**
-*   💼 **[Connect with me on LinkedIn](YOUR_LINKEDIN_URL_HERE)**
-*   📧 **[Send me an Email](mailto:YOUR_EMAIL_HERE)**
+⭐ **If you find my work useful, a star would mean the world!** ⭐
 
----
-<p align="center">
-<i>"Code is like humor. When you have to explain it, it’s bad." – Let's write self-explanatory code! 💻🔥</i>
-</p>
+</div>
