@@ -8,14 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Building+butter-smooth+Flutter+apps+%F0%9F%9A%80;BLoC+%7C+Clean+Architecture+%7C+Material+3;Turning+coffee+into+cross-platform+code+%E2%98%95)](https://git.io/typing-svg)
 
-<br/>
-
-[![Flutter](https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Android](https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
-[![Python](https://img.shields.io/badge/Python-DSA_Grind-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anshu-kr-sarraf/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Anshu_kr_96-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Anshu_kr_96)
@@ -34,8 +26,7 @@ I'm a **Mobile Application Developer** passionate about building beautiful, butt
 
 - 🔭 Currently building **Aura Mart** — a production-grade e-commerce Flutter app
 - 🏆 Actively completing a **100-Day Flutter UI Challenge** (daily UI + animations)
-- 🧮 **DSA grinding** in Python to keep algorithms sharp
-- 🎯 Goal: Join an innovative team as a **Senior Flutter Engineer**
+- 🎯 Goal: Join an innovative team as a **Junior Flutter Engineer**
 - 🌍 Based in **Bangalore** · Available for opportunities
 
 > *"Code is like humor. When you have to explain it, it's bad."*
@@ -57,20 +48,16 @@ I'm a **Mobile Application Developer** passionate about building beautiful, butt
 ![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=flat-square)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-FF6B35?style=flat-square)
 ![MVVM](https://img.shields.io/badge/MVVM-4CAF50?style=flat-square)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-9C27B0?style=flat-square)
 
 ### 💾 Data & Networking
 ![REST API](https://img.shields.io/badge/REST_API-FF6B35?style=flat-square)
-![Dio](https://img.shields.io/badge/Dio-0175C2?style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FF9800?style=flat-square)
 
 ### ⚙️ Tools & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-FF5252?style=flat-square)
 
 </div>
 
@@ -114,33 +101,6 @@ I build every Flutter app using **Clean Architecture** — the standard for prod
 | 🎨 **UI/UX** | Custom animations, smooth transitions, Material 3 reusable widget library |
 
 [![View Repo](https://img.shields.io/badge/View_Aura_Mart_Repo-181717?style=for-the-badge&logo=github)](https://github.com/anshu-ac-dv)
-
----
-
-## 🔥 What I'm Building Right Now
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏆 100-Day Flutter UI Challenge
-Daily complex UI layouts, custom animations, and micro-interactions — mastering every visual capability Flutter has to offer. Each day pushes the boundary of what mobile UI can look like.
-
-</td>
-<td width="50%">
-
-### 🧮 DSA Grind in Python
-Solving algorithmic puzzles daily to keep logical thinking sharp and write optimally efficient code. Because great Flutter engineers don't just know widgets — they know *how to think*.
-
-</td>
-</tr>
-</table>
-
----
-
-
-
-
 
 ## 🤝 Let's Build Something Together
 
