@@ -61,25 +61,6 @@ I'm a **Mobile Application Developer** passionate about building beautiful, butt
 
 </div>
 
----
-
-## 🏗️ Architecture Philosophy
-
-I build every Flutter app using **Clean Architecture** — the standard for production-grade, maintainable codebases:
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    PRESENTATION LAYER                        │
-│             Widgets  ←→  BLoC (Events / States)             │
-├─────────────────────────────────────────────────────────────┤
-│                       DOMAIN LAYER                           │
-│           Use Cases  ←→  Repository Interfaces              │
-├─────────────────────────────────────────────────────────────┤
-│                        DATA LAYER                            │
-│      Repository Impl  ←→  Remote / Local Data Sources       │
-└─────────────────────────────────────────────────────────────┘
-```
-
 **Why this matters:**
 - ✅ Every BLoC is independently **unit-testable**
 - ✅ Business logic is **framework-agnostic**
