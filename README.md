@@ -6,12 +6,12 @@
 # Anshu Kumar
 ### Flutter Developer · Android Developer · Clean Architecture Advocate
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Building+butter-smooth+Flutter+apps+%F0%9F%9A%80;BLoC+%7C+Clean+Architecture+%7C+Material+3;Turning+coffee+into+cross-platform+code+%E2%98%95)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Building+butter-smooth+Flutter+apps+%F0%9F%9A%80;BLoC+%7C+Clean+Code+Enthusiast+🏗️;UI%2FUX+Perfectionist+🎨;From+Bangalore+🌏)](https://github.com/anshu-ac-dv)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/anshu-kr-sarraf/)
 [![Twitter](https://img.shields.io/badge/Twitter-@Anshu_kr_96-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Anshu_kr_96)
 [![Gmail](https://img.shields.io/badge/Email-anshu.ac.dv@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anshu.ac.dv@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anshudev.xyz-7B61FF?style=flat-square&logo=globe&logoColor=white)](https://anshudev.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-79+_Repos-181717?style=flat-square&logo=github)](https://github.com/anshu-ac-dv)
 
 📍 Bangalore, India
@@ -22,7 +22,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **Mobile Application Developer** passionate about building beautiful, butter-smooth, and high-performance apps. I write **clean, scalable code** that looks great on the outside — and is built flawlessly on the inside.
+I'm a **Mobile Application Developer** passionate about building beautiful, butter-smooth, and high-performance apps. I write **clean, scalable code** that looks great on the outside — and is built right on the inside.
 
 - 🔭 Currently building **Aura Mart** — a production-grade e-commerce Flutter app
 - 🏆 Actively completing a **100-Day Flutter UI Challenge** (daily UI + animations)
@@ -89,6 +89,7 @@ I'm actively looking for **Flutter Developer** roles where I can bring clean arc
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/🌐_View_My_Portfolio-7B61FF?style=for-the-badge)](https://anshudev.xyz)
 [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/anshu-kr-sarraf/)
 [![Email](https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge)](mailto:anshu.ac.dv@gmail.com)
 [![Twitter](https://img.shields.io/badge/🐦_Follow_on_X-1DA1F2?style=for-the-badge)](https://twitter.com/Anshu_kr_96)
